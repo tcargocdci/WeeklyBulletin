@@ -1,0 +1,510 @@
+{
+  "initial_test_snapshot": false,
+  "schema_version": "1.0",
+  "bulletin_date": "2026-09-19",
+  "generated_at": "2026-09-19T04:00:53.141Z",
+  "period_start": "2026-09-18T04:00:11.733Z",
+  "period_end": "2026-09-19T04:00:11.733Z",
+  "category_counts": {
+    "1": 8,
+    "2": 3,
+    "3": 0
+  },
+  "image_counts": {
+    "available": 11,
+    "topic_band": 0
+  },
+  "items": [
+    {
+      "record_id": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+      "schema_version": "1.0",
+      "article_id": "A23",
+      "category": 1,
+      "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
+      "title_tr": "Siber Saldırıya Uğrayan Tankerlerin Navigasyon Sistemlerine Müdahale",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T15:44:09.000Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+      "feed_url": "https://techcrunch.com/feed/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/coast-guard-fbi-tankers.jpg?resize=1200,800",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+      "summary_tr": "FBI ve Sahil Güvenlik, ABD kıyılarına yaklaşan bazı petrol tankerlerinin ağlarının ele geçirilmesi olayını soruşturuyor. Bir vakada siber saldırının geminin navigasyon ve itki sistemlerine doğrudan müdahale ettiği bildirildi.",
+      "why_important_tr": "Lojistik araçların navigasyon sistemlerine yapılan siber müdahaleler, hava kargo uçuşları için de kritik bir güvenlik tehdidi oluşturabilir ve operasyonel duraksamalara yol açabilir.",
+      "use_case_tr": "Kargo uçaklarının ve yer araçlarının navigasyon ağlarının siber güvenliği üzerine bir stres testi senaryosu kurgulanarak olası bir ihlal durumunda manuel müdahale protokolleri gözden geçirilebilir.",
+      "technology_tags": [
+        "cybersecurity",
+        "IoT"
+      ],
+      "process_tags": [
+        "navigation",
+        "transport_security"
+      ],
+      "company": null,
+      "country": "USA",
+      "deployment_stage": "unknown",
+      "evidence_type": "independent_report",
+      "reported_benefit_tr": null,
+      "importance": 5,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.235Z"
+    },
+    {
+      "record_id": "https://www.freightwaves.com/news/federal-probe-into-diversion-of-f-35-parts-to-hong-kong",
+      "schema_version": "1.0",
+      "article_id": "A69",
+      "category": 1,
+      "title": "Federal probe into diversion of F-35 parts to Hong Kong",
+      "title_tr": "Hassas F-35 Parçalarının Hong Kong'a Sapması Üzerine Soruşturma",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T21:55:07.000Z",
+      "source": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/federal-probe-into-diversion-of-f-35-parts-to-hong-kong",
+      "feed_url": "https://www.freightwaves.com/feed/",
+      "image_url": "https://www.freightwaves.com/wp-content/uploads/2026/09/18/F-35defenseLogisticsAgency-copy.jpg",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://www.freightwaves.com/news/federal-probe-into-diversion-of-f-35-parts-to-hong-kong",
+      "summary_tr": "Avustralya'dan ABD'ye tamir için gönderilen hassas F-35 bileşenlerinin rotasından saparak Hong Kong'a ulaşması ve kaybolması federal düzeyde bir soruşturma başlattı. Olay, hassas kargoların tedarik zinciri güvenliğindeki zafiyetleri ortaya koydu.",
+      "why_important_tr": "Hava kargoda yüksek değerli ve stratejik ürünlerin takibi için mevcut sistemlerin yetersiz kalabildiğini, daha sıkı dijital görünürlük çözümlerine ihtiyaç olduğunu gösteriyor.",
+      "use_case_tr": "Kritik kargolar için 'geofencing' (coğrafi çit) özellikli IoT takip cihazları kullanılarak, kargonun planlanan rotadan çıkması durumunda anlık uyarı veren bir sistem denenebilir.",
+      "technology_tags": [
+        "cargo_visibility",
+        "IoT"
+      ],
+      "process_tags": [
+        "security",
+        "track_and_trace"
+      ],
+      "company": null,
+      "country": "Hong Kong",
+      "deployment_stage": "unknown",
+      "evidence_type": "independent_report",
+      "reported_benefit_tr": null,
+      "importance": 5,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.236Z"
+    },
+    {
+      "record_id": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+      "schema_version": "1.0",
+      "article_id": "A11",
+      "category": 1,
+      "title": "The picks-and-shovels strategy behind the robotics boom",
+      "title_tr": "Robotik Sektöründeki 'Kazma ve Kürek' Stratejisi",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T18:57:36.000Z",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+      "feed_url": "https://www.therobotreport.com/feed/",
+      "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/09/episode-262-featured.jpg",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+      "summary_tr": "Robotik alanındaki asıl fırsatın evlerdeki insansı robotlardan ziyade, işletmelerin paketleme gibi acil operasyonel ihtiyaçlarını karşılayan spesifik çözümlerde olduğu vurgulanıyor. Sektörün, genel amaçlı robotlar yerine belirli endüstriyel işleri yapan uzmanlaşmış sistemlere yöneldiği görülüyor.",
+      "why_important_tr": "Lojistik merkezlerinde otomasyonun hızlanması için yüksek maliyetli genel çözümler yerine, kargo paketleme gibi dar odaklı görevlerde uzmanlaşmış robotların daha hızlı verimlilik artışı sağlaması muhtemeldir.",
+      "use_case_tr": "Depo paketleme süreçlerinde genel amaçlı bir robotik kol yerine, sadece belirli koli tiplerine odaklanan düşük maliyetli ve yüksek hızlı bir paketleme sistemi prototipi için fizibilite çalışması yapılabilir.",
+      "technology_tags": [
+        "robotics",
+        "automation"
+      ],
+      "process_tags": [
+        "packaging",
+        "warehouse_operations"
+      ],
+      "company": null,
+      "country": null,
+      "deployment_stage": "unknown",
+      "evidence_type": "unknown",
+      "reported_benefit_tr": null,
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.236Z"
+    },
+    {
+      "record_id": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+      "schema_version": "1.0",
+      "article_id": "A17",
+      "category": 1,
+      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+      "title_tr": "Joby Aviation'dan 3.100 Millik Otonom Uçuş Testi",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T17:26:41.000Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+      "feed_url": "https://techcrunch.com/feed/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+      "summary_tr": "Joby Aviation'ın otonom uçuş teknolojisiyle donatılmış bir hava aracı, insan müdahalesi olmadan ABD genelinde uçuş gerçekleştirdi. Bu başarı, şirketin elektrikli hava taksilerinin ötesinde daha geniş havacılık uygulamalarına odaklandığını gösteriyor.",
+      "why_important_tr": "Otonom uçuş teknolojisindeki bu ilerleme, gelecekte kargo uçaklarının pilotsuz veya minimum mürettebatla uzun mesafeli rotalarda operasyon yapabilmesinin önünü açabilir.",
+      "use_case_tr": "İHA sistemlerimizin otonom rota planlama algoritmaları için Joby'nin otonom uçuş verileri ve güvenlik protokolleri referans alınarak bir simülasyon çalışması başlatılabilir.",
+      "technology_tags": [
+        "autonomous_flight",
+        "AI"
+      ],
+      "process_tags": [
+        "flight_operations",
+        "long_haul"
+      ],
+      "company": "Joby Aviation",
+      "country": "USA",
+      "deployment_stage": "pilot",
+      "evidence_type": "vendor_claim",
+      "reported_benefit_tr": "3.100 mil boyunca insan pilot müdahalesi olmadan otonom uçuş başarısı.",
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.236Z"
+    },
+    {
+      "record_id": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "schema_version": "1.0",
+      "article_id": "A5",
+      "category": 1,
+      "title": "AI hallucination nearly triggers US military operation",
+      "title_tr": "Yapay Zeka Halüsinasyonu Askeri Operasyon Riskini Tetikledi",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T23:12:32.000Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "feed_url": "https://techcrunch.com/feed/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "summary_tr": "Büyük dil modellerindeki (LLM) belirsizlik ve halüsinasyon sorunu, ABD askeri operasyonlarında neredeyse hatalı bir tetiklemeye yol açıyordu. Uzmanlar, kritik karar alma süreçlerinde yapay zekaya olan aşırı güvenin risklerine karşı uyarıda bulunuyor.",
+      "why_important_tr": "Kargo yükleme planlaması veya rota optimizasyonu gibi kritik kararlarda LLM tabanlı sistemlerin kullanılmasının, denetimsiz bırakıldığında operasyonel hatalara yol açabileceğini kanıtlıyor.",
+      "use_case_tr": "Kargo manifestosu oluşturma gibi süreçlerde kullanılan yapay zeka çıktılarının doğruluğunu teyit etmek için bir 'insan denetimi' (human-in-the-loop) katmanı tasarlanabilir.",
+      "technology_tags": [
+        "AI",
+        "LLM"
+      ],
+      "process_tags": [
+        "risk_management",
+        "decision_support"
+      ],
+      "company": null,
+      "country": "USA",
+      "deployment_stage": "unknown",
+      "evidence_type": "independent_report",
+      "reported_benefit_tr": null,
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.237Z"
+    },
+    {
+      "record_id": "https://www.freightwaves.com/news/freightwaves-announces-the-2027-freighttech100",
+      "schema_version": "1.0",
+      "article_id": "A81",
+      "category": 1,
+      "title": "FreightWaves Announces the 2027 FreightTech100",
+      "title_tr": "2027 FreightTech100 Listesi Duyuruldu",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T16:55:00.000Z",
+      "source": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/freightwaves-announces-the-2027-freighttech100",
+      "feed_url": "https://www.freightwaves.com/feed/",
+      "image_url": "https://www.freightwaves.com/wp-content/uploads/2026/09/18/2027-FreightTech100-Award-1.png",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://www.freightwaves.com/news/freightwaves-announces-the-2027-freighttech100",
+      "summary_tr": "FreightWaves, taşımacılık ve tedarik zinciri teknolojileri alanında en yenilikçi 100 şirketi belirlediği 2027 listesini açıkladı. Liste, sektörün en etkili teknoloji sağlayıcılarını ve yükselen startup'larını kapsıyor.",
+      "why_important_tr": "Hava kargo ekosistemindeki teknolojik trendleri takip etmek ve potansiyel çözüm ortaklarını belirlemek için sektörel bir kıyaslama noktası sunuyor.",
+      "use_case_tr": "Listede yer alan ve özellikle hava kargo dijitalleşmesine (e-AWB, ONE Record vb.) odaklanan firmalar belirlenerek teknoloji radarına eklenebilir.",
+      "technology_tags": [
+        "logistics_tech",
+        "digital_transformation"
+      ],
+      "process_tags": [
+        "vendor_selection",
+        "innovation_monitoring"
+      ],
+      "company": "FreightWaves",
+      "country": "USA",
+      "deployment_stage": "unknown",
+      "evidence_type": "independent_report",
+      "reported_benefit_tr": null,
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.237Z"
+    },
+    {
+      "record_id": "https://www.freightwaves.com/news/whats-broken-in-freight-tech-right-now",
+      "schema_version": "1.0",
+      "article_id": "A79",
+      "category": 1,
+      "title": "What’s Broken in Freight Tech Right Now?",
+      "title_tr": "Navlun Teknolojilerinde Uygulama Sorunları Tartışılıyor",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T18:16:44.000Z",
+      "source": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/whats-broken-in-freight-tech-right-now",
+      "feed_url": "https://www.freightwaves.com/feed/",
+      "image_url": "https://www.freightwaves.com/wp-content/uploads/2026/09/18/Ryan-Schreiber-Don-Everhart-FWT-Thumbnail-September-18th.png",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://www.freightwaves.com/news/whats-broken-in-freight-tech-right-now",
+      "summary_tr": "Sektör liderleri, navlun teknolojilerinin benimsenmesinde yaşanan darboğazları ve taşıyıcıların neden hala dijital dönüşümde zorlandığını ele alıyor. Tartışmada, sadece yazılıma değil, operasyonel kültüre odaklanılması gerektiği belirtiliyor.",
+      "why_important_tr": "Hava kargoda ONE Record gibi yeni standartların teknik olarak hazır olsa bile neden yavaş yayıldığına dair önemli içgörüler sunuyor.",
+      "use_case_tr": "Şirket içi dijital rezervasyon araçlarının kullanım oranlarını artırmak için 'kullanıcı deneyimi' odaklı bir iç iyileştirme anketi ve eğitim serisi düzenlenebilir.",
+      "technology_tags": [
+        "digital_transformation",
+        "software_adoption"
+      ],
+      "process_tags": [
+        "change_management",
+        "operational_efficiency"
+      ],
+      "company": "Metafora",
+      "country": "USA",
+      "deployment_stage": "unknown",
+      "evidence_type": "customer_statement",
+      "reported_benefit_tr": null,
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.237Z"
+    },
+    {
+      "record_id": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "schema_version": "1.0",
+      "article_id": "A25",
+      "category": 1,
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "title_tr": "Meta Muse: Bilgisayarlarda Aksiyon Alan Yapay Zeka Ajanı",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T15:22:48.000Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "feed_url": "https://techcrunch.com/feed/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/download-1.webp?resize=1200,1159",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "summary_tr": "Meta'nın yeni yapay zeka aracı Muse, artık Mac üzerinde dosyalarla çalışabiliyor ve kullanıcı adına uygulamalarda işlem yapabiliyor. Bu teknoloji, statik sohbet robotlarından dinamik iş asistanlarına geçişi temsil ediyor.",
+      "why_important_tr": "Hava kargo operasyonlarındaki tekrarlayan veri girişi ve raporlama gibi masaüstü görevlerinin, bu tür ajanlar aracılığıyla otomatikleştirilme potansiyeli yüksektir.",
+      "use_case_tr": "Müşteri rezervasyon e-postalarındaki verileri okuyup kargo yönetim sistemimize otomatik olarak giren bir 'Muse' tabanlı iş akışı denemesi yapılabilir.",
+      "technology_tags": [
+        "AI_agents",
+        "automation"
+      ],
+      "process_tags": [
+        "administrative_tasks",
+        "data_entry"
+      ],
+      "company": "Meta",
+      "country": "USA",
+      "deployment_stage": "live",
+      "evidence_type": "vendor_claim",
+      "reported_benefit_tr": "Kullanıcı adına dosya ve uygulamalarda işlem yapabilme yeteneği.",
+      "importance": 3,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.237Z"
+    },
+    {
+      "record_id": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "schema_version": "1.0",
+      "article_id": "A3",
+      "category": 2,
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "title_tr": "UP.Labs'tan Endüstriyel Yapay Zeka İçin 100 Milyon Dolar",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T23:25:01.000Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "feed_url": "https://techcrunch.com/feed/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary_tr": "Vantora adıyla faaliyet gösteren UP.Labs, büyük endüstriyel kuruluşlar için girişimler kurmak üzere 100 milyon dolar yatırım aldı. Şirket, özellikle 'fiziksel yapay zeka' çözümleri geliştirmeye odaklanacağını duyurdu.",
+      "why_important_tr": "Lojistik ve üretim gibi fiziksel operasyonların yoğun olduğu alanlarda, kurumsal ihtiyaçlara özel startup'ların kurulması sektördeki dijital dönüşümü hızlandırabilir.",
+      "use_case_tr": "Hava kargo yer hizmetlerinde karşılaşılan spesifik bir darboğaz için UP.Labs modeline benzer bir kurum içi girişimcilik (venture builder) yapısı incelenebilir.",
+      "technology_tags": [
+        "physical_AI",
+        "enterprise_tech"
+      ],
+      "process_tags": [
+        "startup_incubation",
+        "industrial_automation"
+      ],
+      "company": "Vantora (UP.Labs)",
+      "country": "USA",
+      "deployment_stage": "announcement",
+      "evidence_type": "vendor_claim",
+      "reported_benefit_tr": null,
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.238Z"
+    },
+    {
+      "record_id": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
+      "schema_version": "1.0",
+      "article_id": "A37",
+      "category": 2,
+      "title": "The Week’s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment Management Lead",
+      "title_tr": "Yapay Zeka Altyapısı ve Uzay Teknolojilerine Dev Yatırımlar",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T18:29:32.000Z",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
+      "feed_url": "https://news.crunchbase.com/feed/",
+      "image_url": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
+      "summary_tr": "Haftanın en büyük yatırım turlarında AI altyapı şirketi Temporal Technologies 550 milyon dolar, uzay aracı geliştiricisi Impulse Space ise 308 milyon dolar topladı. Startup ekosisteminde altyapı projelerine olan güvenin sürdüğü görülüyor.",
+      "why_important_tr": "Büyük ölçekli veri işleme altyapılarının (Temporal gibi) finansman bulması, lojistik gibi yoğun veri trafiğine sahip sektörlerin dijital omurgalarının güçleneceğine işaret ediyor.",
+      "use_case_tr": "Kargo takip sistemlerindeki karmaşık iş akışlarını yönetmek için Temporal gibi ölçeklenebilir altyapı platformlarının kullanımı değerlendirilebilir.",
+      "technology_tags": [
+        "AI_infrastructure",
+        "cloud_computing"
+      ],
+      "process_tags": [
+        "funding",
+        "scaling"
+      ],
+      "company": "Temporal Technologies",
+      "country": "USA",
+      "deployment_stage": "announcement",
+      "evidence_type": "independent_report",
+      "reported_benefit_tr": "Temporal Technologies için 550 milyon dolarlık yatırım finansmanı.",
+      "importance": 3,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.238Z"
+    },
+    {
+      "record_id": "https://tech.eu/2026/09/18/arcos-secures-eur55m-to-protect-critical-infrastructure-from-physical-threats/",
+      "schema_version": "1.0",
+      "article_id": "A57",
+      "category": 2,
+      "title": "Arcos secures €5.5M to protect critical infrastructure from physical threats",
+      "title_tr": "Arcos, Kritik Altyapı Güvenliği İçin 5,5 Milyon Avro Topladı",
+      "date": "2026-09-18",
+      "published_at": "2026-09-18T06:55:00.000Z",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/09/18/arcos-secures-eur55m-to-protect-critical-infrastructure-from-physical-threats/",
+      "feed_url": "https://tech.eu/feed/",
+      "image_url": "https://cdn.tech.eu/uploads/2026/09/arcos-featured-783.png",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://tech.eu/2026/09/18/arcos-secures-eur55m-to-protect-critical-infrastructure-from-physical-threats/",
+      "summary_tr": "Münih merkezli Arcos, kritik altyapıları fiziksel tehditlere karşı izleyen ve olaylara yanıt veren platformunu genişletmek için 5,5 milyon avro tohum yatırım aldı. Şirket, fiziksel güvenlik olaylarını dijital olarak izlemeye odaklanıyor.",
+      "why_important_tr": "Havalimanları ve kargo antrepoları gibi kritik tesislerin fiziksel güvenliğinin dijital platformlar üzerinden merkezi olarak izlenmesi, risk yönetimini modernize edebilir.",
+      "use_case_tr": "Kargo depolarındaki izinsiz girişleri veya fiziksel anormallikleri yapay zeka destekli kameralarla izleyen bir güvenlik katmanı için Arcos benzeri bir çözüm test edilebilir.",
+      "technology_tags": [
+        "security_tech",
+        "AI",
+        "monitoring"
+      ],
+      "process_tags": [
+        "infrastructure_protection",
+        "risk_monitoring"
+      ],
+      "company": "Arcos",
+      "country": "Germany",
+      "deployment_stage": "announcement",
+      "evidence_type": "vendor_claim",
+      "reported_benefit_tr": "5,5 milyon avroluk tohum yatırım turu.",
+      "importance": 3,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-19T04:00:11.733Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-19T04:00:55.238Z"
+    }
+  ],
+  "concept": {
+    "term": "Physical AI (Fiziksel Yapay Zeka)",
+    "explanation_tr": "Yapay zekanın sadece dijital veri setlerini işlemesi değil, robotlar, sensörler ve makineler aracılığıyla fiziksel dünyada aksiyon almasını ve fiziksel sistemleri kontrol etmesini sağlayan teknoloji dalıdır.",
+    "cargo_example_tr": "Bir kargo antreposunda yapay zekanın, paketin sadece üzerindeki barkodu okumakla yetinmeyip, paketin fiziksel boyutlarını, ağırlık dengesini ve dış yüzeyindeki hasar olasılığını sensörlerle algılayarak robotik kolu paketi en güvenli şekilde uçağa yüklemek üzere yönlendirmesi."
+  },
+  "source_errors": [
+    {
+      "source": "UPS Newsroom",
+      "url": "https://about.ups.com/us/en/newsroom.html",
+      "error": "HTML newsroom page; RSS connector not configured"
+    },
+    {
+      "source": "Qatar Airways News",
+      "url": "https://www.qatarairways.com/en/press-releases.html",
+      "error": "HTML newsroom page; RSS connector not configured"
+    },
+    {
+      "source": "Cathay Newsroom",
+      "url": "https://news.cathaypacific.com/",
+      "error": "HTML newsroom page; RSS connector not configured"
+    },
+    {
+      "source": "Air Cargo Eye",
+      "url": "https://aircargoeye.com/feed/",
+      "error": "Request failed with status code 403"
+    },
+    {
+      "source": "Aviation Week",
+      "url": "https://aviationweek.com/awn-rss/feed",
+      "error": "Invalid character in entity name\nLine: 4\nColumn: 83\nChar: &"
+    },
+    {
+      "source": "Airways Magazine",
+      "url": "https://airwaysmag.com/feed/",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "Boeing Newsroom",
+      "url": "https://boeing.mediaroom.com/rss",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "Airbus Newsroom",
+      "url": "https://www.airbus.com/en/newsroom/rss",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "FedEx Newsroom",
+      "url": "https://newsroom.fedex.com/feed/",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "Emirates News",
+      "url": "https://www.emirates.com/media-centre/rss/",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "VentureBeat",
+      "url": "http://feeds.venturebeat.com/VentureBeat",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "The Register AI/ML",
+      "url": "https://www.theregister.com/software/ai/headlines.atom",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "VentureBeat Deals",
+      "url": "http://feeds.venturebeat.com/deals",
+      "error": "Request failed with status code 404"
+    }
+  ]
+}

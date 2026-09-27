@@ -1,0 +1,449 @@
+{
+  "initial_test_snapshot": false,
+  "schema_version": "1.0",
+  "bulletin_date": "2026-09-20",
+  "generated_at": "2026-09-20T04:00:29.978Z",
+  "period_start": "2026-09-19T04:00:07.217Z",
+  "period_end": "2026-09-20T04:00:07.217Z",
+  "category_counts": {
+    "1": 6,
+    "2": 3,
+    "3": 0
+  },
+  "image_counts": {
+    "available": 9,
+    "topic_band": 0
+  },
+  "items": [
+    {
+      "record_id": "https://simpleflying.com/delta-human-remains-unrefrigerated-overnight-memphis/",
+      "schema_version": "1.0",
+      "article_id": "A13",
+      "category": 1,
+      "title": "Family Accuses Delta Of Leaving Father's Remains Unrefrigerated Overnight In Memphis",
+      "title_tr": "Delta Hava Yolları'nda Özel Kargo İhmali: Soğuk Zincir Yönetimi Sorgulanıyor",
+      "date": "2026-09-20",
+      "published_at": "2026-09-20T03:42:45.000Z",
+      "source": "Simple Flying",
+      "url": "https://simpleflying.com/delta-human-remains-unrefrigerated-overnight-memphis/",
+      "feed_url": "https://simpleflying.com/feed/",
+      "image_url": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta-air-lines-boeing-757-200-at-phoenix-robin-guess.jpg?w=1600&h=900&fit=crop",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://simpleflying.com/delta-human-remains-unrefrigerated-overnight-memphis/",
+      "summary_tr": "Memphis'te bir cenazenin aktarma sırasında gece boyunca soğutmasız bırakıldığı iddiası, havayolunun özel kargo süreçlerindeki eksiklikleri gündeme getirdi. Olayın 'cargo cutoff' süreleri ve aktarma operasyonlarındaki aksaklıklardan kaynaklandığı belirtiliyor.",
+      "why_important_tr": "Hassas ve özel kargoların (cenaze, ilaç, taze gıda) takibinde dijital izleme ve uyarı sistemlerinin ne kadar hayati olduğunu gösteren bir örnek.",
+      "use_case_tr": "Özel kargo (Special Cargo) sevkiyatlarında, kargo belirlenen sürede uçağa yüklenmediğinde veya yanlış depolama alanında kaldığında otomatik alarm üreten bir IoT takip sistemi kurulabilir.",
+      "technology_tags": [
+        "IoT",
+        "Sensors",
+        "Real-time Tracking"
+      ],
+      "process_tags": [
+        "Cold Chain Management",
+        "Cargo Operations",
+        "Special Cargo"
+      ],
+      "company": "Delta Air Lines",
+      "country": "USA",
+      "deployment_stage": "unknown",
+      "evidence_type": "independent_report",
+      "reported_benefit_tr": null,
+      "importance": 5,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.145Z"
+    },
+    {
+      "record_id": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "schema_version": "1.0",
+      "article_id": "A3",
+      "category": 1,
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "title_tr": "Google Gemini Modelinin Siber Güvenlik Açıklarını Tespit Etme Yeteneği Tartışılıyor",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T17:30:00.000Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "feed_url": "https://techcrunch.com/feed/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary_tr": "Google'ın Gemini AI modelinin diğer şirketlerin sistemlerindeki güvenlik açıklarını tespit etmek için kullanılabildiği rapor edildi. Google, modelin bu sızma girişimlerini uygun şekilde sonlandırdığını belirtse de, LLM'lerin siber saldırı kapasitesi endişe yaratıyor.",
+      "why_important_tr": "Üretken yapay zeka modellerinin otonom olarak yazılım açıklarını bulabilmesi, kurumsal veri güvenliği için hem büyük bir risk hem de savunma fırsatı oluşturabilir.",
+      "use_case_tr": "Kargo rezervasyon sistemlerindeki eski kod tabanlarının (legacy code) güvenlik açıklarını taramak için kontrollü bir Gemini ortamı kullanılabilir.",
+      "technology_tags": [
+        "GenAI",
+        "Cybersecurity",
+        "LLM"
+      ],
+      "process_tags": [
+        "Risk Management",
+        "Software Development"
+      ],
+      "company": "Google",
+      "country": "USA",
+      "deployment_stage": "unknown",
+      "evidence_type": "vendor_claim",
+      "reported_benefit_tr": null,
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.146Z"
+    },
+    {
+      "record_id": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "schema_version": "1.0",
+      "article_id": "A10",
+      "category": 1,
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "title_tr": "Yapay Zeka Destekli Siber Güvenlik Açığı Patlaması Bekleniyor",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T11:00:00.000Z",
+      "source": "Wired AI",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "image_url": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/191:100/w_1280,c_limit/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "summary_tr": "AI laboratuvarları gelişimi yavaşlatmayı tartışırken, halihazırda erişilebilir olan chatbot'ların güvenlik açıklarını bulmada devasa bir artışa neden olduğu belirtiliyor. Siber güvenlik dünyası, AI kaynaklı zafiyet tespitlerine karşı savunma geliştirmekte zorlanıyor.",
+      "why_important_tr": "Kritik altyapı sağlayıcıları olarak hava kargo şirketleri, AI ile güçlendirilmiş saldırılara karşı sistemlerini daha hızlı yamalamak zorunda kalacaktır.",
+      "use_case_tr": "Mevcut siber güvenlik protokollerimizin AI tarafından üretilen saldırı senaryolarına karşı dayanıklılığını ölçen bir 'Red Teaming' simülasyonu yapılabilir.",
+      "technology_tags": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "process_tags": [
+        "Vulnerability Management",
+        "Information Security"
+      ],
+      "company": null,
+      "country": null,
+      "deployment_stage": "unknown",
+      "evidence_type": "independent_report",
+      "reported_benefit_tr": null,
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.147Z"
+    },
+    {
+      "record_id": "https://skift.com/2026/09/19/skift-global-forum-preview-spotnana-ceo-after-booking-servicing/",
+      "schema_version": "1.0",
+      "article_id": "A25",
+      "category": 1,
+      "title": "Skift Global Forum Preview: What Happens After the Booking? Spotnana CEO Has a Number",
+      "title_tr": "Spotnana, AI ile Rezervasyon Sonrası Hizmet Maliyetlerini Yarıya İndirmeyi Hedefliyor",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T12:41:33.000Z",
+      "source": "Skift",
+      "url": "https://skift.com/2026/09/19/skift-global-forum-preview-spotnana-ceo-after-booking-servicing/",
+      "feed_url": "https://skift.com/feed/",
+      "image_url": "https://skift.com/wp-content/uploads/2026/09/Skift-Global-Forum-2026-Speaker-Preview-Steve-Singh-Executive-Chairman-and-CEO-Spotnana.png?resize=1024,683",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://skift.com/2026/09/19/skift-global-forum-preview-spotnana-ceo-after-booking-servicing/",
+      "summary_tr": "Seyahat teknolojileri girişimi Spotnana, rezervasyon iptalleri ve iadeleri gibi operasyonel süreçleri AI ile otomatize ediyor. Şirket CEO'su, bu sayede servis maliyetlerinin %50 oranında azalabileceğini savunuyor.",
+      "why_important_tr": "Kargo dünyasında manuel olarak yönetilen rezervasyon değişiklikleri ve iade süreçleri, AI otomasyonu ile benzer bir verimlilik artışı yaşayabilir.",
+      "use_case_tr": "Kargo rezervasyonlarındaki uçuş iptali veya kapasite değişikliklerine bağlı müşteri taleplerini yönetmek için bir AI asistanı kurgulanabilir.",
+      "technology_tags": [
+        "AI",
+        "Automation"
+      ],
+      "process_tags": [
+        "Customer Service",
+        "Booking",
+        "Cost Optimization"
+      ],
+      "company": "Spotnana",
+      "country": "USA",
+      "deployment_stage": "live",
+      "evidence_type": "vendor_claim",
+      "reported_benefit_tr": "Servis maliyetlerinde %50 azalma potansiyeli.",
+      "importance": 4,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.147Z"
+    },
+    {
+      "record_id": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "schema_version": "1.0",
+      "article_id": "A4",
+      "category": 1,
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "title_tr": "ABD Donanması Yapay Zeka ve Kuantum Teknolojilerine Odaklanan Yeni Yol Haritasını Açıkladı",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T17:00:00.000Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "feed_url": "https://techcrunch.com/feed/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "summary_tr": "Donanma Teknoloji Şefi, risk sermayesi yatırımcılarıyla iş birliği yaparak otonom yakıt ikmali, AI ve kuantum gibi alanlarda teknoloji tedarikini hızlandıracaklarını belirtti. 562 milyon dolarlık otonom sistem yatırımları stratejinin merkezinde yer alıyor.",
+      "why_important_tr": "Savunma sanayiindeki otonom yakıt ikmali ve lojistik koordinasyon çözümleri, sivil hava kargo operasyonlarındaki yer hizmetleri otomasyonuna doğrudan uyarlanabilir.",
+      "use_case_tr": "Apron operasyonlarında otonom yakıt ve servis araçlarının yönetimi için askeri standartlardaki AI algoritmaları incelenebilir.",
+      "technology_tags": [
+        "AI",
+        "Autonomous Systems",
+        "Quantum Computing"
+      ],
+      "process_tags": [
+        "Investment",
+        "R&D",
+        "Fleet Management"
+      ],
+      "company": "US Navy",
+      "country": "USA",
+      "deployment_stage": "announcement",
+      "evidence_type": "customer_statement",
+      "reported_benefit_tr": null,
+      "importance": 3,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.147Z"
+    },
+    {
+      "record_id": "https://www.freightwaves.com/news/fake-fedex-drivers-steal-680k-electronics-load-from-new-castle-de-warehouse",
+      "schema_version": "1.0",
+      "article_id": "A24",
+      "category": 1,
+      "title": "Fake FedEx drivers steal $680K electronics load from New Castle, DE, warehouse",
+      "title_tr": "Sahte Belgelerle 680 Bin Dolarlık Elektronik Yük Hırsızlığı",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T14:00:00.000Z",
+      "source": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/fake-fedex-drivers-steal-680k-electronics-load-from-new-castle-de-warehouse",
+      "feed_url": "https://www.freightwaves.com/feed/",
+      "image_url": "https://www.freightwaves.com/wp-content/uploads/2026/09/18/Fake-FedEx-driver.png",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://www.freightwaves.com/news/fake-fedex-drivers-steal-680k-electronics-load-from-new-castle-de-warehouse",
+      "summary_tr": "Delaware'de sahte FedEx belgeleri ve plakaları kullanan bir kişi, bir depodan yüklü miktarda elektronik eşyayı çalmakla suçlanıyor. Olay, lojistik süreçlerdeki doküman doğrulama zafiyetlerini ortaya koyuyor.",
+      "why_important_tr": "Dijital kimlik doğrulama ve Blockchain tabanlı doküman takibi sistemlerinin eksikliği, bu tür yüksek değerli kargo hırsızlıklarına zemin hazırlayabilir.",
+      "use_case_tr": "Sürücü ve araç kimliklerini terminal girişinde biyometrik veriler veya dijital cüzdanlar üzerinden doğrulayan bir pilot uygulama tasarlanabilir.",
+      "technology_tags": [
+        "Digital Identity",
+        "Security"
+      ],
+      "process_tags": [
+        "Warehouse Management",
+        "Cargo Security",
+        "Fraud Prevention"
+      ],
+      "company": "FedEx",
+      "country": "USA",
+      "deployment_stage": "unknown",
+      "evidence_type": "independent_report",
+      "reported_benefit_tr": null,
+      "importance": 3,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.147Z"
+    },
+    {
+      "record_id": "https://www.freightwaves.com/news/yard-flow-200-site-yard-automation-deal",
+      "schema_version": "1.0",
+      "article_id": "A26",
+      "category": 2,
+      "title": "YardFlow lands over 200-site yard automation deal",
+      "title_tr": "YardFlow, 200'den Fazla Lojistik Sahası İçin Otomasyon Anlaşması İmzaladı",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T12:00:00.000Z",
+      "source": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/yard-flow-200-site-yard-automation-deal",
+      "feed_url": "https://www.freightwaves.com/feed/",
+      "image_url": "https://www.freightwaves.com/wp-content/uploads/2026/09/18/Busy-truck-yard-image.png",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://www.freightwaves.com/news/yard-flow-200-site-yard-automation-deal",
+      "summary_tr": "Saha otomasyonu uzmanı YardFlow, en büyük müşterisinin tüm tesislerinde (200+ saha) sistemlerini kurmak üzere anlaşma sağladı. Şirket şimdiye kadar 26 tesiste yaklaşık 2 milyon gönderiyi dijital olarak yönetti.",
+      "why_important_tr": "Tesis içi araç trafiği ve saha yönetiminin (Yard Management) dijitalleşmesi, kargo terminallerindeki kamyon giriş-çıkış sürelerini optimize etmek için kritiktir.",
+      "use_case_tr": "Hava kargo antrepolarına gelen kamyonların bekleme sürelerini azaltmak için YardFlow benzeri bir saha takip sistemi entegre edilebilir.",
+      "technology_tags": [
+        "SaaS",
+        "IoT",
+        "Automation"
+      ],
+      "process_tags": [
+        "Yard Management",
+        "Facility Management",
+        "Logistics"
+      ],
+      "company": "YardFlow",
+      "country": "USA",
+      "deployment_stage": "live",
+      "evidence_type": "customer_statement",
+      "reported_benefit_tr": "26 tesiste 2 milyon gönderinin dijital yönetimi ve tam kapsamlı saha yayılımı.",
+      "importance": 5,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.147Z"
+    },
+    {
+      "record_id": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "schema_version": "1.0",
+      "article_id": "A8",
+      "category": 2,
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "title_tr": "Vals AI, Yapay Zeka Kıyaslamasında Yeni Standart Olmayı Hedefliyor",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T13:00:00.000Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "feed_url": "https://techcrunch.com/feed/",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "summary_tr": "Andreessen Horowitz tarafından desteklenen Vals AI, piyasadaki yapay zeka modellerinin performansını tarafsız bir şekilde ölçmek için benchmark çözümleri sunuyor. Şirket, güvenilir bir AI değerlendirme kaynağı olmayı amaçlıyor.",
+      "why_important_tr": "Kargo operasyonları için LLM seçimi yaparken, modellerin sektörel verimliliğini ölçen standart bir kıyaslama metodolojisine ihtiyaç duyulacaktır.",
+      "use_case_tr": "Dahili kargo veri analizinde kullanılacak farklı AI modellerini (GPT-4, Claude, Gemini) Vals altyapısı ile kıyaslayarak en düşük hata payına sahip olanı seçebiliriz.",
+      "technology_tags": [
+        "AI",
+        "Benchmarking",
+        "Data Science"
+      ],
+      "process_tags": [
+        "Quality Control",
+        "Decision Support"
+      ],
+      "company": "Vals AI",
+      "country": "USA",
+      "deployment_stage": "announcement",
+      "evidence_type": "vendor_claim",
+      "reported_benefit_tr": null,
+      "importance": 3,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.147Z"
+    },
+    {
+      "record_id": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
+      "schema_version": "1.0",
+      "article_id": "A9",
+      "category": 2,
+      "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
+      "title_tr": "Hirebotics, Cobot'larına Çizgi İzleme ve Lineer Ray Yetenekleri Ekledi",
+      "date": "2026-09-19",
+      "published_at": "2026-09-19T12:40:50.000Z",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
+      "feed_url": "https://www.therobotreport.com/feed/",
+      "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/09/hirebotics-featured.jpg",
+      "image_origin": "source_metadata",
+      "image_source_url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
+      "summary_tr": "Hirebotics, iş birlikçi robotlarının (cobot) çalışma menzilini genişleten yeni donanım ve yazılım güncellemelerini duyurdu. Bu özellikler, imalat ve lojistik sahalarında robotlara daha fazla esneklik sağlıyor.",
+      "why_important_tr": "Depolama ve kargo paletleme süreçlerinde cobot'ların daha geniş alanlarda hareket edebilmesi, otomasyonun ölçeklenebilirliğini artırır.",
+      "use_case_tr": "Kargo depolarında büyük boyutlu paletlerin etiketlenmesi veya streçlenmesi için ray üzerinde hareket edebilen cobot sistemleri test edilebilir.",
+      "technology_tags": [
+        "Robotics",
+        "Cobots",
+        "Automation"
+      ],
+      "process_tags": [
+        "Warehouse Operations",
+        "Unit Load Device (ULD) Management"
+      ],
+      "company": "Hirebotics",
+      "country": "USA",
+      "deployment_stage": "live",
+      "evidence_type": "vendor_claim",
+      "reported_benefit_tr": "Üreticiler için daha yüksek çalışma aralığı ve esneklik.",
+      "importance": 2,
+      "review_status": "ai_generated",
+      "analysis_origin": "ai",
+      "first_seen_at": "2026-09-20T04:00:07.217Z",
+      "image_status": "available",
+      "image_checked_at": "2026-09-20T04:00:31.148Z"
+    }
+  ],
+  "concept": {
+    "term": "Cold Chain Digitalization (Soğuk Zincir Dijitalleşmesi)",
+    "explanation_tr": "Sıcaklığa duyarlı kargoların uçtan uca sevkiyat sürecinde IoT sensörleri, dijital kayıtlar ve anlık veri akışıyla kontrol altında tutulmasıdır.",
+    "cargo_example_tr": "Bir havayolu şirketinin, taşıdığı aşıların sıcaklık verilerini dijital bir platform üzerinden anlık izleyerek, konteyner kapağının açık kalması durumunda yer ekibinin telefonuna otomatik uyarı göndermesi."
+  },
+  "source_errors": [
+    {
+      "source": "UPS Newsroom",
+      "url": "https://about.ups.com/us/en/newsroom.html",
+      "error": "HTML newsroom page; RSS connector not configured"
+    },
+    {
+      "source": "Qatar Airways News",
+      "url": "https://www.qatarairways.com/en/press-releases.html",
+      "error": "HTML newsroom page; RSS connector not configured"
+    },
+    {
+      "source": "Cathay Newsroom",
+      "url": "https://news.cathaypacific.com/",
+      "error": "HTML newsroom page; RSS connector not configured"
+    },
+    {
+      "source": "Air Cargo Eye",
+      "url": "https://aircargoeye.com/feed/",
+      "error": "Request failed with status code 403"
+    },
+    {
+      "source": "Aviation Week",
+      "url": "https://aviationweek.com/awn-rss/feed",
+      "error": "Invalid character in entity name\nLine: 4\nColumn: 83\nChar: &"
+    },
+    {
+      "source": "FlightGlobal",
+      "url": "https://www.flightglobal.com/rss",
+      "error": "Request failed with status code 503"
+    },
+    {
+      "source": "Airways Magazine",
+      "url": "https://airwaysmag.com/feed/",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "Boeing Newsroom",
+      "url": "https://boeing.mediaroom.com/rss",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "Airbus Newsroom",
+      "url": "https://www.airbus.com/en/newsroom/rss",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "FedEx Newsroom",
+      "url": "https://newsroom.fedex.com/feed/",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "Emirates News",
+      "url": "https://www.emirates.com/media-centre/rss/",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "VentureBeat",
+      "url": "http://feeds.venturebeat.com/VentureBeat",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "The Register AI/ML",
+      "url": "https://www.theregister.com/software/ai/headlines.atom",
+      "error": "Request failed with status code 404"
+    },
+    {
+      "source": "VentureBeat Deals",
+      "url": "http://feeds.venturebeat.com/deals",
+      "error": "Request failed with status code 404"
+    }
+  ]
+}
