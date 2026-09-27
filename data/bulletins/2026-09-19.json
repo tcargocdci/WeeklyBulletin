@@ -435,11 +435,7 @@
       "image_checked_at": "2026-09-19T04:00:55.238Z"
     }
   ],
-  "concept": {
-    "term": "Physical AI (Fiziksel Yapay Zeka)",
-    "explanation_tr": "Yapay zekanın sadece dijital veri setlerini işlemesi değil, robotlar, sensörler ve makineler aracılığıyla fiziksel dünyada aksiyon almasını ve fiziksel sistemleri kontrol etmesini sağlayan teknoloji dalıdır.",
-    "cargo_example_tr": "Bir kargo antreposunda yapay zekanın, paketin sadece üzerindeki barkodu okumakla yetinmeyip, paketin fiziksel boyutlarını, ağırlık dengesini ve dış yüzeyindeki hasar olasılığını sensörlerle algılayarak robotik kolu paketi en güvenli şekilde uçağa yüklemek üzere yönlendirmesi."
-  },
+  "concept": null,
   "source_errors": [
     {
       "source": "UPS Newsroom",
