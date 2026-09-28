@@ -2,6 +2,19 @@
   "schema_version": "1.0",
   "bulletins": [
     {
+      "environment": "pilot",
+      "publication_id": "pilot:2026-W38:2026-09-28T03:00:55.084Z",
+      "initial_test_snapshot": true,
+      "date": "2026-09-28",
+      "week_id": "2026-W38",
+      "frequency": "weekly",
+      "period_start": "2026-09-20T21:00:00.000Z",
+      "period_end": "2026-09-27T21:00:00.000Z",
+      "path": "data/bulletins/2026-W38.json",
+      "article_count": 9,
+      "generated_at": "2026-09-28T03:00:55.084Z"
+    },
+    {
       "environment": "test",
       "publication_id": "test:2026-W39:2026-09-25T09:20:02.331Z",
       "initial_test_snapshot": false,
