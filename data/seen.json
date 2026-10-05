@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-28T07:52:42.649Z",
+  "updated_at": "2026-10-05T03:32:39.098Z",
   "records": [
     {
       "url": "https://www.aircargonews.net/ground-handler/2026/09/sats-tests-autonomous-vehicles-to-speed-up-changi-handler-operations/",
@@ -127,6 +127,153 @@
       "published_at": "2026-09-25T16:15:22.000Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
+    },
+    {
+      "url": "https://www.bcg.com/publications/2026/the-formula-for-agentic-ai-value",
+      "title": "The Formula for Agentic AI Value",
+      "published_at": "2026-09-30T00:00:00.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://egirisim.com/2026/10/02/ronesans-holding-digital-realtyyi-turkiyeye-yatirim-ortagi-olarak-getiriyor/",
+      "title": "Rönesans Holding, Digital Realty’yi Türkiye’ye yatırım ortağı olarak getiriyor",
+      "published_at": "2026-10-02T08:41:21.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
+      "title": "Inside Omron’s next-generation LD mobile robots",
+      "published_at": "2026-10-02T23:01:36.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://pandaily.com/huawei-openjiuwen-x-router-self-evolving-model-router-agents",
+      "title": "Huawei's openJiuwen Open-Sources X-Router to Pick the Right Model for Each Agent Request",
+      "published_at": "2026-10-04T02:04:51.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts?utm_source=rss_feed",
+      "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
+      "published_at": "2026-10-03T03:00:18.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/ymx-yard-technology-helps-retailer-trace-60000-in-missing-freight",
+      "title": "YMX yard technology helps retailer trace $60,000 in missing freight",
+      "published_at": "2026-10-02T20:43:08.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+      "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+      "published_at": "2026-10-02T15:46:05.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "http://wamda.com/2026/09/shorooq-presight-join-maven-robotics-100-million-series-a",
+      "title": "Shorooq, Presight join Maven Robotics’ $100 million Series A",
+      "published_at": "2026-09-28T13:45:59.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
+      "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
+      "published_at": "2026-09-29T04:30:18.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://webrazzi.com/2026/09/30/efficient-computer-650-milyon-dolar-degerlemeyle-97-milyon-dolar-yatirim-aldi/",
+      "title": "Efficient Computer, 650 milyon dolar değerlemeyle 97 milyon dolar yatırım aldı",
+      "published_at": "2026-09-30T14:00:00.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://webrazzi.com/2026/10/02/yari-iletken-ve-yapay-zeka-altyapisi-alanina-odaklanan-volantis-88-milyon-dolar-yatirim-aldi/",
+      "title": "Yarı iletken ve yapay zeka altyapısı alanına odaklanan Volantis, 88 milyon dolar yatırım aldı",
+      "published_at": "2026-10-02T12:00:00.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://cargoforwarder.eu/2026/10/04/ai-meets-the-air-cargo-pallet/",
+      "title": "AI meets the air cargo pallet",
+      "published_at": "2026-10-04T16:25:11.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://cargoforwarder.eu/2026/10/04/one-record-adoption-gains-momentum-across-air-cargo-industry/",
+      "title": "ONE Record adoption gains momentum across air cargo industry",
+      "published_at": "2026-10-04T16:18:50.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://aircargoweek.com/ai-assisted-screening-introduced-at-cathay-cargo/",
+      "title": "AI-assisted screening introduced at Cathay Cargo",
+      "published_at": "2026-10-02T09:16:34.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://aircargoweek.com/adhoc-express-and-cargoai-agree-strategic-partnership/",
+      "title": "Adhoc.Express and CargoAi agree strategic partnership",
+      "published_at": "2026-10-01T10:34:58.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://www.aircargonews.net/ground-handler/2026/09/dnata-highlights-lessons-learnt-from-challenging-schiphol-opening/",
+      "title": "dnata highlights lessons learnt from challenging Schiphol opening",
+      "published_at": "2026-09-30T17:05:40.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://airportindustry-news.com/faa-introduces-smart-tool-to-centralise-data-streams/",
+      "title": "FAA Introduces SMART Tool to Centralise Data Streams",
+      "published_at": "2026-09-29T12:20:22.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/",
+      "title": "SIA has scaled AI. Aviation must now govern the point of action",
+      "published_at": "2026-09-28T01:00:39.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://www.skycargo.com/media-centre/a-decade-of-delivering-health-and-wellbeing-emirates-skycargo-surpasses-one-million-pharma-shipments-through-dubai/",
+      "title": "A decade of delivering health and wellbeing: Emirates SkyCargo surpasses one million pharma shipments through Dubai",
+      "published_at": "2026-10-01T09:46:04.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://travelradar.aero/joby-completes-first-autonomous-flight-across-the-united-states/",
+      "title": "Joby Completes First Autonomous Flight Across the United States",
+      "published_at": "2026-10-04T10:00:08.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
+    },
+    {
+      "url": "https://cargoforwarder.eu/2026/10/04/kuehnenagel-expands-technology-footprint-with-new-chennai-tech-centre/",
+      "title": "Kuehne+Nagel expands technology footprint with new Chennai Tech Centre",
+      "published_at": "2026-10-04T16:20:06.000Z",
+      "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
+      "week_id": "2026-W39"
     }
   ]
 }
