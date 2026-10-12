@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-05T03:32:39.098Z",
+  "updated_at": "2026-10-12T06:06:28.567Z",
   "records": [
     {
       "url": "https://www.aircargonews.net/ground-handler/2026/09/sats-tests-autonomous-vehicles-to-speed-up-changi-handler-operations/",
@@ -274,6 +274,195 @@
       "published_at": "2026-10-04T16:20:06.000Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
+    },
+    {
+      "url": "https://cargoforwarder.eu/2026/10/11/cma-cgm-air-cargo-opts-for-cargoais-allotment-management/",
+      "title": "CMA CGM AIR CARGO opts for CargoAi’s allotment management",
+      "published_at": "2026-10-11T19:24:31.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://theloadstar.com/ai-could-cut-eight-hours-from-air-cargo-collections-says-handling-chief/",
+      "title": "AI could cut eight hours off air cargo collections, says handling chief",
+      "published_at": "2026-10-09T11:55:09.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.aircargonews.net/technology/2026/10/silk-way-west-continues-digital-service-roll-out/",
+      "title": "Silk Way West continues digital service roll out",
+      "published_at": "2026-10-09T10:57:31.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.aviationpros.com/aircraft-maintenance-technology/mros-repair-shops/press-release/55410487/mro-pro-announces-new-line-maintenance-improvement-contract-with-airhub-aviation",
+      "title": "MRO-PRO Announces New Line Maintenance Improvement Contract with Airhub Aviation",
+      "published_at": "2026-10-08T13:20:43.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.futuretravelexperience.com/2026/10/heathrow-partners-with-adobe-to-use-agentic-ai-to-deliver-more-personalised-passenger-experiences/",
+      "title": "Heathrow partners with Adobe to use agentic AI to deliver more personalised passenger experiences",
+      "published_at": "2026-10-11T09:33:55.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.futuretravelexperience.com/2026/10/southwest-airlines-launches-chatgpt-plugin-to-help-travellers-discover-and-shop-for-flights/",
+      "title": "Southwest Airlines launches ChatGPT plugin to help travellers discover and shop for flights",
+      "published_at": "2026-10-11T09:44:53.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.aviationpros.com/ground-support-worldwide/ground-handling/podcast/55410796/beyond-electrification-and-into-the-future-of-gse-fleet-management",
+      "title": "Beyond Electrification and Into the Future of GSE Fleet Management",
+      "published_at": "2026-10-09T13:34:50.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/kodiak-charger-autonomous-trucks-dallas-laredo",
+      "title": "Kodiak AI, Charger Logistics launch autonomous Laredo lane",
+      "published_at": "2026-10-09T15:57:20.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "http://wamda.com/2026/10/saudi-ai-startup-echelon-secures-backing-east40-raed-ventures-avra",
+      "title": "Saudi AI startup Echelon secures backing from East40, RAED Ventures and Avra",
+      "published_at": "2026-10-07T13:11:18.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://webrazzi.com/2026/10/08/robotlarin-egitilmesi-icin-gercek-dunya-verileri-toplayan-mecka-60-milyon-dolar-yatirim-aldi/",
+      "title": "Robotların eğitilmesi için gerçek dünya verileri toplayan Mecka, 60 milyon dolar yatırım aldı",
+      "published_at": "2026-10-08T14:30:00.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://webrazzi.com/2026/10/08/otonom-elektrikli-tren-sirketi-parallel-systems-100-milyon-dolar-yatirim-aldi/",
+      "title": "Otonom elektrikli tren şirketi Parallel Systems, 100 milyon dolar yatırım aldı",
+      "published_at": "2026-10-08T13:00:00.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "http://wamda.com/2026/10/saudi-autotech-autobia-raises-12-million-series-a-led-artal-capital",
+      "title": "Saudi autotech Autobia raises $12 million Series A led by Artal Capital",
+      "published_at": "2026-10-11T12:59:38.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://pandaily.com/y10-physical-ai-chip-1ms-closed-loop-latency-fpga-platform-xu-feixiang",
+      "title": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms",
+      "published_at": "2026-10-11T01:51:56.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
+      "title": "6 Guidelines for Governing AI",
+      "published_at": "2026-10-05T18:00:02.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+      "title": "ICYMI: What landed for AI builders in September 2026",
+      "published_at": "2026-10-09T15:38:39.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "published_at": "2026-10-09T15:35:02.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+      "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+      "published_at": "2026-10-11T12:36:24.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
+      "title": "Why dexterity is physical AI’s real bottleneck",
+      "published_at": "2026-10-10T12:45:15.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.sdcexec.com/software-technology/ai-ar/article/22970357/fishbowl-why-clean-data-matters-more-than-your-next-ai-tool",
+      "title": "Why Clean Data Matters More Than Your Next AI Tool",
+      "published_at": "2026-10-09T16:30:00.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "published_at": "2026-10-09T21:41:29.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "title": "Trump unveils his new Super Intelligence Force | TechCrunch",
+      "published_at": "2026-10-11T07:01:18.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "title": "SynthID Bio: Watermarking methods for synthetic biology — Google DeepMind",
+      "published_at": "2026-10-11T07:01:18.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://sceye.com/press-releases/sceye-completes-record-us-japan-stratospheric-flight/",
+      "title": "Sceye’s Stratospheric Platform Re-enters United States After Record-Breaking Roundtrip Stratospheric Flight Between U.S. and Japan | Sceye",
+      "published_at": "2026-10-11T07:01:18.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.taaraconnect.com/",
+      "title": "Taara | High-Speed Wireless Internet Using Light Beam Technology",
+      "published_at": "2026-10-11T07:01:18.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.hw.ac.uk/news/2026/heriot-watt-scientists-turn-dairy-waste-into-fuel",
+      "title": "Heriot-Watt scientists turn dairy waste into fuel",
+      "published_at": "2026-10-11T07:01:18.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://www.scmp.com/news/china/science/article/3369897/chinese-team-creates-lifelike-hydrogel-changes-shape-smart-devices",
+      "title": "Chinese team creates ‘lifelike’ hydrogel that changes shape for smart devices",
+      "published_at": "2026-10-11T07:01:18.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
+    },
+    {
+      "url": "https://informationisbeautiful.net/visualizations/worlds-largest-",
+      "title": "The World’s Largest & Longest Empires &mdash; Information is Beautiful",
+      "published_at": "2026-10-11T07:01:18.000Z",
+      "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
+      "week_id": "2026-W40"
     }
   ]
 }
