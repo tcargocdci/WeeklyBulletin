@@ -1,468 +1,629 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-12T06:06:28.567Z",
+  "updated_at": "2026-10-19T06:17:16.37Z",
   "records": [
     {
       "url": "https://www.aircargonews.net/ground-handler/2026/09/sats-tests-autonomous-vehicles-to-speed-up-changi-handler-operations/",
       "title": "SATS tests autonomous vehicles to speed up Changi handler operations",
-      "published_at": "2026-09-24T10:25:05.000Z",
+      "published_at": "2026-09-24T10:25:05Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://payloadasia.com/2026/09/awery-launches-ai-powered-data-search-reporting-functionality/",
       "title": "Awery launches AI-powered data search and reporting functionality",
-      "published_at": "2026-09-24T05:59:13.000Z",
+      "published_at": "2026-09-24T05:59:13Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.aviationpros.com/ground-support-worldwide/ground-handling/news/55405428/ethiopian-cargo-adds-digital-booking-through-cargoai",
       "title": "Ethiopian Cargo Adds Digital Booking Through CargoAi",
-      "published_at": "2026-09-22T11:00:00.000Z",
+      "published_at": "2026-09-22T11:00:00Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://payloadasia.com/2026/09/from-multimodal-quoting-ai-workers-cargo-one-prepares-air-cargo-ai-age/",
       "title": "From multimodal quoting to AI workers: cargo.one prepares air cargo for the AI age",
-      "published_at": "2026-09-25T10:16:30.000Z",
+      "published_at": "2026-09-25T10:16:30Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://theloadstar.com/iata-calls-for-earlier-cargo-checks-but-poor-data-leaves-forwarders-blind/",
       "title": "IATA calls for earlier cargo checks, but poor data leaves forwarders blind",
-      "published_at": "2026-09-25T11:52:27.000Z",
+      "published_at": "2026-09-25T11:52:27Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.iotinsider.com/industries/communications/ontario-airport-deploys-private-5g-for-security-and-perimeter-monitoring/",
       "title": "Ontario airport deploys private 5G for security and perimeter monitoring",
-      "published_at": "2026-09-25T10:27:56.000Z",
+      "published_at": "2026-09-25T10:27:56Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://airportindustry-news.com/cologne-airport-partners-with-yetimove/",
       "title": "Cologne Airport Partners with Yetimove",
-      "published_at": "2026-09-24T06:19:20.000Z",
+      "published_at": "2026-09-24T06:19:20Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.aviationpros.com/ground-support-worldwide/news/55404449/berlin-brandenburg-tests-roboxi-for-automated-airside-inspections",
       "title": "Berlin Brandenburg Tests Roboxi for Automated Airside Inspections",
-      "published_at": "2026-09-23T11:00:00.000Z",
+      "published_at": "2026-09-23T11:00:00Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.futuretravelexperience.com/2026/09/advancing-digital-identity-and-seamless-travel-tpa-u-s-travel-association-aamva-and-ey-on-trust-interoperability-and-collaboration/",
       "title": "Advancing digital identity and seamless travel: TPA, U.S. Travel Association, AAMVA and EY on trust, interoperability and collaboration",
-      "published_at": "2026-09-23T13:06:31.000Z",
+      "published_at": "2026-09-23T13:06:31Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://webrazzi.com/2026/09/25/island-6-4-milyar-dolar-degerleme-uzerinden-400-milyon-dolar-yatirim-aldi/",
       "title": "Island, 6.4 milyar dolar değerleme üzerinden 400 milyon dolar yatırım aldı",
-      "published_at": "2026-09-25T08:00:00.000Z",
+      "published_at": "2026-09-25T08:00:00Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://webrazzi.com/2026/09/24/kurumsal-yapay-zeka-alaninda-calisan-ema-77-milyon-dolar-yatirim-aldi/",
       "title": "Kurumsal yapay zeka alanında çalışan Ema, 77 milyon dolar yatırım aldı",
-      "published_at": "2026-09-24T14:30:00.000Z",
+      "published_at": "2026-09-24T14:30:00Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "http://wamda.com/2026/09/huspy-enters-italy-integra-finance-acquisition-86-million-investment-plan",
       "title": "Huspy enters Italy with Integra Finance acquisition and $86 million investment plan",
-      "published_at": "2026-09-23T09:36:27.000Z",
+      "published_at": "2026-09-23T09:36:27Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.freightwaves.com/news/samsara-connects-fleet-data-with-chatgpt-claude-and-other-ai-tools",
       "title": "Samsara connects fleet data with ChatGPT, Claude and other AI tools",
-      "published_at": "2026-09-25T19:10:38.000Z",
+      "published_at": "2026-09-25T19:10:38Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.sdcexec.com/warehousing/automation/article/22972923/autoschedulerai-warehouse-visibility-can-see-more-than-ever-but-seeing-isnt-enough",
       "title": "Warehouse Visibility Can See More Than Ever. But Seeing Isn’t Enough",
-      "published_at": "2026-09-26T16:30:00.000Z",
+      "published_at": "2026-09-26T16:30:00Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility/",
       "title": "Amazon to invest $100M in new Indiana manufacturing facility",
-      "published_at": "2026-09-25T18:59:01.000Z",
+      "published_at": "2026-09-25T18:59:01Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
       "title": "General Robotics is betting on modular intelligence, not one robot brain",
-      "published_at": "2026-09-25T18:43:22.000Z",
+      "published_at": "2026-09-25T18:43:22Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.freightwaves.com/news/coretura-selects-vector-qnx-software-for-commercial-vehicle-platform",
       "title": "Coretura selects Vector-QNX software for commercial vehicle platform",
-      "published_at": "2026-09-25T16:06:51.000Z",
+      "published_at": "2026-09-25T16:06:51Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
       "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
-      "published_at": "2026-09-25T16:15:22.000Z",
+      "published_at": "2026-09-25T16:15:22Z",
       "publication_id": "pilot:2026-W38:2026-09-28T07:52:42.649Z",
       "week_id": "2026-W38"
     },
     {
       "url": "https://www.bcg.com/publications/2026/the-formula-for-agentic-ai-value",
       "title": "The Formula for Agentic AI Value",
-      "published_at": "2026-09-30T00:00:00.000Z",
+      "published_at": "2026-09-30T00:00:00Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://egirisim.com/2026/10/02/ronesans-holding-digital-realtyyi-turkiyeye-yatirim-ortagi-olarak-getiriyor/",
       "title": "Rönesans Holding, Digital Realty’yi Türkiye’ye yatırım ortağı olarak getiriyor",
-      "published_at": "2026-10-02T08:41:21.000Z",
+      "published_at": "2026-10-02T08:41:21Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
       "title": "Inside Omron’s next-generation LD mobile robots",
-      "published_at": "2026-10-02T23:01:36.000Z",
+      "published_at": "2026-10-02T23:01:36Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://pandaily.com/huawei-openjiuwen-x-router-self-evolving-model-router-agents",
       "title": "Huawei's openJiuwen Open-Sources X-Router to Pick the Right Model for Each Agent Request",
-      "published_at": "2026-10-04T02:04:51.000Z",
+      "published_at": "2026-10-04T02:04:51Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts?utm_source=rss_feed",
       "title": "More Chinese banks likely to adopt AI rules after Ping An move: analysts",
-      "published_at": "2026-10-03T03:00:18.000Z",
+      "published_at": "2026-10-03T03:00:18Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://www.freightwaves.com/news/ymx-yard-technology-helps-retailer-trace-60000-in-missing-freight",
       "title": "YMX yard technology helps retailer trace $60,000 in missing freight",
-      "published_at": "2026-10-02T20:43:08.000Z",
+      "published_at": "2026-10-02T20:43:08Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
       "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
-      "published_at": "2026-10-02T15:46:05.000Z",
+      "published_at": "2026-10-02T15:46:05Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "http://wamda.com/2026/09/shorooq-presight-join-maven-robotics-100-million-series-a",
       "title": "Shorooq, Presight join Maven Robotics’ $100 million Series A",
-      "published_at": "2026-09-28T13:45:59.000Z",
+      "published_at": "2026-09-28T13:45:59Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
       "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
-      "published_at": "2026-09-29T04:30:18.000Z",
+      "published_at": "2026-09-29T04:30:18Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://webrazzi.com/2026/09/30/efficient-computer-650-milyon-dolar-degerlemeyle-97-milyon-dolar-yatirim-aldi/",
       "title": "Efficient Computer, 650 milyon dolar değerlemeyle 97 milyon dolar yatırım aldı",
-      "published_at": "2026-09-30T14:00:00.000Z",
+      "published_at": "2026-09-30T14:00:00Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://webrazzi.com/2026/10/02/yari-iletken-ve-yapay-zeka-altyapisi-alanina-odaklanan-volantis-88-milyon-dolar-yatirim-aldi/",
       "title": "Yarı iletken ve yapay zeka altyapısı alanına odaklanan Volantis, 88 milyon dolar yatırım aldı",
-      "published_at": "2026-10-02T12:00:00.000Z",
+      "published_at": "2026-10-02T12:00:00Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://cargoforwarder.eu/2026/10/04/ai-meets-the-air-cargo-pallet/",
       "title": "AI meets the air cargo pallet",
-      "published_at": "2026-10-04T16:25:11.000Z",
+      "published_at": "2026-10-04T16:25:11Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://cargoforwarder.eu/2026/10/04/one-record-adoption-gains-momentum-across-air-cargo-industry/",
       "title": "ONE Record adoption gains momentum across air cargo industry",
-      "published_at": "2026-10-04T16:18:50.000Z",
+      "published_at": "2026-10-04T16:18:50Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://aircargoweek.com/ai-assisted-screening-introduced-at-cathay-cargo/",
       "title": "AI-assisted screening introduced at Cathay Cargo",
-      "published_at": "2026-10-02T09:16:34.000Z",
+      "published_at": "2026-10-02T09:16:34Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://aircargoweek.com/adhoc-express-and-cargoai-agree-strategic-partnership/",
       "title": "Adhoc.Express and CargoAi agree strategic partnership",
-      "published_at": "2026-10-01T10:34:58.000Z",
+      "published_at": "2026-10-01T10:34:58Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://www.aircargonews.net/ground-handler/2026/09/dnata-highlights-lessons-learnt-from-challenging-schiphol-opening/",
       "title": "dnata highlights lessons learnt from challenging Schiphol opening",
-      "published_at": "2026-09-30T17:05:40.000Z",
+      "published_at": "2026-09-30T17:05:40Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://airportindustry-news.com/faa-introduces-smart-tool-to-centralise-data-streams/",
       "title": "FAA Introduces SMART Tool to Centralise Data Streams",
-      "published_at": "2026-09-29T12:20:22.000Z",
+      "published_at": "2026-09-29T12:20:22Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/",
       "title": "SIA has scaled AI. Aviation must now govern the point of action",
-      "published_at": "2026-09-28T01:00:39.000Z",
+      "published_at": "2026-09-28T01:00:39Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://www.skycargo.com/media-centre/a-decade-of-delivering-health-and-wellbeing-emirates-skycargo-surpasses-one-million-pharma-shipments-through-dubai/",
       "title": "A decade of delivering health and wellbeing: Emirates SkyCargo surpasses one million pharma shipments through Dubai",
-      "published_at": "2026-10-01T09:46:04.000Z",
+      "published_at": "2026-10-01T09:46:04Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://travelradar.aero/joby-completes-first-autonomous-flight-across-the-united-states/",
       "title": "Joby Completes First Autonomous Flight Across the United States",
-      "published_at": "2026-10-04T10:00:08.000Z",
+      "published_at": "2026-10-04T10:00:08Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://cargoforwarder.eu/2026/10/04/kuehnenagel-expands-technology-footprint-with-new-chennai-tech-centre/",
       "title": "Kuehne+Nagel expands technology footprint with new Chennai Tech Centre",
-      "published_at": "2026-10-04T16:20:06.000Z",
+      "published_at": "2026-10-04T16:20:06Z",
       "publication_id": "pilot:2026-W39:2026-10-05T03:32:39.098Z",
       "week_id": "2026-W39"
     },
     {
       "url": "https://cargoforwarder.eu/2026/10/11/cma-cgm-air-cargo-opts-for-cargoais-allotment-management/",
       "title": "CMA CGM AIR CARGO opts for CargoAi’s allotment management",
-      "published_at": "2026-10-11T19:24:31.000Z",
+      "published_at": "2026-10-11T19:24:31Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://theloadstar.com/ai-could-cut-eight-hours-from-air-cargo-collections-says-handling-chief/",
       "title": "AI could cut eight hours off air cargo collections, says handling chief",
-      "published_at": "2026-10-09T11:55:09.000Z",
+      "published_at": "2026-10-09T11:55:09Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.aircargonews.net/technology/2026/10/silk-way-west-continues-digital-service-roll-out/",
       "title": "Silk Way West continues digital service roll out",
-      "published_at": "2026-10-09T10:57:31.000Z",
+      "published_at": "2026-10-09T10:57:31Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.aviationpros.com/aircraft-maintenance-technology/mros-repair-shops/press-release/55410487/mro-pro-announces-new-line-maintenance-improvement-contract-with-airhub-aviation",
       "title": "MRO-PRO Announces New Line Maintenance Improvement Contract with Airhub Aviation",
-      "published_at": "2026-10-08T13:20:43.000Z",
+      "published_at": "2026-10-08T13:20:43Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.futuretravelexperience.com/2026/10/heathrow-partners-with-adobe-to-use-agentic-ai-to-deliver-more-personalised-passenger-experiences/",
       "title": "Heathrow partners with Adobe to use agentic AI to deliver more personalised passenger experiences",
-      "published_at": "2026-10-11T09:33:55.000Z",
+      "published_at": "2026-10-11T09:33:55Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.futuretravelexperience.com/2026/10/southwest-airlines-launches-chatgpt-plugin-to-help-travellers-discover-and-shop-for-flights/",
       "title": "Southwest Airlines launches ChatGPT plugin to help travellers discover and shop for flights",
-      "published_at": "2026-10-11T09:44:53.000Z",
+      "published_at": "2026-10-11T09:44:53Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.aviationpros.com/ground-support-worldwide/ground-handling/podcast/55410796/beyond-electrification-and-into-the-future-of-gse-fleet-management",
       "title": "Beyond Electrification and Into the Future of GSE Fleet Management",
-      "published_at": "2026-10-09T13:34:50.000Z",
+      "published_at": "2026-10-09T13:34:50Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.freightwaves.com/news/kodiak-charger-autonomous-trucks-dallas-laredo",
       "title": "Kodiak AI, Charger Logistics launch autonomous Laredo lane",
-      "published_at": "2026-10-09T15:57:20.000Z",
+      "published_at": "2026-10-09T15:57:20Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "http://wamda.com/2026/10/saudi-ai-startup-echelon-secures-backing-east40-raed-ventures-avra",
       "title": "Saudi AI startup Echelon secures backing from East40, RAED Ventures and Avra",
-      "published_at": "2026-10-07T13:11:18.000Z",
+      "published_at": "2026-10-07T13:11:18Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://webrazzi.com/2026/10/08/robotlarin-egitilmesi-icin-gercek-dunya-verileri-toplayan-mecka-60-milyon-dolar-yatirim-aldi/",
       "title": "Robotların eğitilmesi için gerçek dünya verileri toplayan Mecka, 60 milyon dolar yatırım aldı",
-      "published_at": "2026-10-08T14:30:00.000Z",
+      "published_at": "2026-10-08T14:30:00Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://webrazzi.com/2026/10/08/otonom-elektrikli-tren-sirketi-parallel-systems-100-milyon-dolar-yatirim-aldi/",
       "title": "Otonom elektrikli tren şirketi Parallel Systems, 100 milyon dolar yatırım aldı",
-      "published_at": "2026-10-08T13:00:00.000Z",
+      "published_at": "2026-10-08T13:00:00Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "http://wamda.com/2026/10/saudi-autotech-autobia-raises-12-million-series-a-led-artal-capital",
       "title": "Saudi autotech Autobia raises $12 million Series A led by Artal Capital",
-      "published_at": "2026-10-11T12:59:38.000Z",
+      "published_at": "2026-10-11T12:59:38Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://pandaily.com/y10-physical-ai-chip-1ms-closed-loop-latency-fpga-platform-xu-feixiang",
       "title": "Startup Led by Ex-Nvidia GPU Architect Designs Y10 Chip to Close Robot Control Loops in 1 ms",
-      "published_at": "2026-10-11T01:51:56.000Z",
+      "published_at": "2026-10-11T01:51:56Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
       "title": "6 Guidelines for Governing AI",
-      "published_at": "2026-10-05T18:00:02.000Z",
+      "published_at": "2026-10-05T18:00:02Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
       "title": "ICYMI: What landed for AI builders in September 2026",
-      "published_at": "2026-10-09T15:38:39.000Z",
+      "published_at": "2026-10-09T15:38:39Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
       "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-      "published_at": "2026-10-09T15:35:02.000Z",
+      "published_at": "2026-10-09T15:35:02Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
       "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
-      "published_at": "2026-10-11T12:36:24.000Z",
+      "published_at": "2026-10-11T12:36:24Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
       "title": "Why dexterity is physical AI’s real bottleneck",
-      "published_at": "2026-10-10T12:45:15.000Z",
+      "published_at": "2026-10-10T12:45:15Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.sdcexec.com/software-technology/ai-ar/article/22970357/fishbowl-why-clean-data-matters-more-than-your-next-ai-tool",
       "title": "Why Clean Data Matters More Than Your Next AI Tool",
-      "published_at": "2026-10-09T16:30:00.000Z",
+      "published_at": "2026-10-09T16:30:00Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "published_at": "2026-10-09T21:41:29.000Z",
+      "published_at": "2026-10-09T21:41:29Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
       "title": "Trump unveils his new Super Intelligence Force | TechCrunch",
-      "published_at": "2026-10-11T07:01:18.000Z",
+      "published_at": "2026-10-11T07:01:18Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://deepmind.google/blog/introducing-synthid-bio/",
       "title": "SynthID Bio: Watermarking methods for synthetic biology — Google DeepMind",
-      "published_at": "2026-10-11T07:01:18.000Z",
+      "published_at": "2026-10-11T07:01:18Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://sceye.com/press-releases/sceye-completes-record-us-japan-stratospheric-flight/",
       "title": "Sceye’s Stratospheric Platform Re-enters United States After Record-Breaking Roundtrip Stratospheric Flight Between U.S. and Japan | Sceye",
-      "published_at": "2026-10-11T07:01:18.000Z",
+      "published_at": "2026-10-11T07:01:18Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.taaraconnect.com/",
       "title": "Taara | High-Speed Wireless Internet Using Light Beam Technology",
-      "published_at": "2026-10-11T07:01:18.000Z",
+      "published_at": "2026-10-11T07:01:18Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.hw.ac.uk/news/2026/heriot-watt-scientists-turn-dairy-waste-into-fuel",
       "title": "Heriot-Watt scientists turn dairy waste into fuel",
-      "published_at": "2026-10-11T07:01:18.000Z",
+      "published_at": "2026-10-11T07:01:18Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://www.scmp.com/news/china/science/article/3369897/chinese-team-creates-lifelike-hydrogel-changes-shape-smart-devices",
       "title": "Chinese team creates ‘lifelike’ hydrogel that changes shape for smart devices",
-      "published_at": "2026-10-11T07:01:18.000Z",
+      "published_at": "2026-10-11T07:01:18Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
     },
     {
       "url": "https://informationisbeautiful.net/visualizations/worlds-largest-",
       "title": "The World’s Largest & Longest Empires &mdash; Information is Beautiful",
-      "published_at": "2026-10-11T07:01:18.000Z",
+      "published_at": "2026-10-11T07:01:18Z",
       "publication_id": "pilot:2026-W40:2026-10-12T06:06:28.567Z",
       "week_id": "2026-W40"
+    },
+    {
+      "url": "https://payloadasia.com/2026/10/delta-cargo-expands-digital-booking-capabilities-cargowise-carrier-connectivity-program/",
+      "title": "Delta Cargo expands digital booking capabilities through CargoWise Carrier Connectivity Program",
+      "published_at": "2026-10-14T10:11:34Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://payloadasia.com/2026/10/air-france-klm-martinair-cargo-automates-perishables-centre-paris-cdg-lodige-industries/",
+      "title": "Air France KLM Martinair Cargo automates Perishables Centre at Paris-CDG with Lödige Industries",
+      "published_at": "2026-10-14T10:15:44Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "published_at": "2026-10-13T16:00:00Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses",
+      "title": "Evos raises $9M to build AI operators for industrial businesses",
+      "published_at": "2026-10-16T19:55:52Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://cargoforwarder.eu/2026/10/18/willing-to-pilot-olfs-time-slot-management/",
+      "title": "Willing to pilot OLF’s Time Slot Management?",
+      "published_at": "2026-10-18T18:21:40Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://airportindustry-news.com/qatar-marks-major-digital-aviation-milestone-with-first-data-driven-eaip/",
+      "title": "Qatar Marks Major Digital Aviation Milestone with First Data-Driven eAIP",
+      "published_at": "2026-10-15T13:04:29Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://pandaily.com/supcon-alibaba-qwenwork-agent-marketing-chain-solution-proposals-ai-marketing-skill-library",
+      "title": "SUPCON Adopts Alibaba's QwenWork Agent Across Its Marketing Chain, Plans Wider Rollout",
+      "published_at": "2026-10-18T09:08:52Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://www.aircargonews.net/technology/2026/10/latam-cargo-embraces-vr-for-warehouse-staff-training/",
+      "title": "LATAM Cargo embraces VR for warehouse staff training",
+      "published_at": "2026-10-15T15:59:32Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://www.skycargo.com/media-centre/powering-global-ambitions-emirates-courier-express-accelerates-international-expansion-for-dubai-businesses/",
+      "title": "Powering global ambitions: Emirates Courier Express accelerates international expansion for Dubai businesses",
+      "published_at": "2026-10-14T10:48:02Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://www.futuretravelexperience.com/2026/10/oneworld-streamlines-digital-check-in-for-passengers-travelling-across-multiple-airlines/",
+      "title": "oneworld streamlines digital check-in for passengers travelling across multiple airlines",
+      "published_at": "2026-10-18T12:50:22Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://www.futuretravelexperience.com/2026/10/sunshine-coast-airport-opens-new-check-in-hall-with-advanced-self-service-technology/",
+      "title": "Sunshine Coast Airport opens new check-in hall with advanced self-service technology",
+      "published_at": "2026-10-18T12:55:21Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
+      "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
+      "published_at": "2026-10-12T13:00:02Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://webrazzi.com/2026/10/16/yapay-zeka-altyapisi-gelistiren-mueon-65-milyon-dolar-yatirim-aldi/",
+      "title": "Yapay zeka altyapısı geliştiren Mueon, 65 milyon dolar yatırım aldı",
+      "published_at": "2026-10-16T14:30:00Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://webrazzi.com/2026/10/16/bulut-ve-yapay-zeka-maliyet-yonetimi-girisimi-north-60-milyon-dolar-yatirim-aldi/",
+      "title": "Bulut ve yapay zeka maliyet yönetimi girişimi North, 60 milyon dolar yatırım aldı",
+      "published_at": "2026-10-16T10:00:00Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://tech.eu/2026/10/16/a16z-backed-uk-fintech-sequence-sold-to-intuit-in-reported-200m-deal/",
+      "title": "A16z-backed UK fintech Sequence sold to Intuit in reported $200M deal",
+      "published_at": "2026-10-16T11:56:00Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "http://wamda.com/2026/10/foodics-invests-funding-souq-expand-restaurant-financing-ksa-uae",
+      "title": "Foodics invests in Funding Souq to expand restaurant financing in KSA, UAE",
+      "published_at": "2026-10-14T09:20:54Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+      "title": "ADI explains the race to make AI physical",
+      "published_at": "2026-10-17T21:33:57Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://spectrum.ieee.org/variable-frequency-drives",
+      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+      "published_at": "2026-10-17T13:00:02Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://pandaily.com/peng-cheng-cloud-brain-iii-10000p-domestic-ai-computing-trial-operation-wcnc-2026",
+      "title": "Peng Cheng Cloud Brain III Puts 10,000P of Domestic AI Computing Into Trial Operation",
+      "published_at": "2026-10-18T01:55:24Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "published_at": "2026-10-17T18:48:08Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker",
+      "title": "Justice Department Announces Coordinated Actions to Combat North Korean Remote IT Worker Schemes Affecting More than 70 U.S. Companies",
+      "published_at": "2026-10-18T07:01:57Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://www.crowdstrike.com/",
+      "title": "CrowdStrike: We Stop Breaches with AI-native Cybersecurity",
+      "published_at": "2026-10-18T07:01:57Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
+    },
+    {
+      "url": "https://counterpointresearch.com/en/reports/retail-pulse-september-2026",
+      "title": "Counterpoint Retail Pulse, September 2026: Price Hikes Pressure Affordability, iPhone 18 Pro and Samsung Foldable Phones Maintain Premium Appeal",
+      "published_at": "2026-10-18T07:01:57Z",
+      "publication_id": "pilot:2026-W41:2026-10-19T06:17:16.37Z",
+      "week_id": "2026-W41"
     }
   ]
 }
