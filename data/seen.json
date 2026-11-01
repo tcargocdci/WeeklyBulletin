@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-26T07:59:56.349Z",
+  "updated_at": "2026-11-01T20:48:06.134Z",
   "records": [
     {
       "url": "https://www.aircargonews.net/ground-handler/2026/09/sats-tests-autonomous-vehicles-to-speed-up-changi-handler-operations/",
@@ -787,11 +787,165 @@
       "week_id": "2026-W42"
     },
     {
-      "url": "https://tnmt.com/airline-startup-investments-in-2025/",
-      "title": "A deep dive into the latest startup investments by airlines",
-      "published_at": "2025-02-19T00:00:00Z",
-      "publication_id": "pilot:2026-W42:2026-10-26T07:59:56.349Z",
-      "week_id": "2026-W42"
+      "url": "https://payloadasia.com/2026/10/miami-international-airport-becomes-worlds-largest-cargo-airport-launch-ai-powered-digital-platform-kale/",
+      "title": "Miami International Airport becomes the world’s largest cargo airport to launch an AI-powered digital platform with Kalé",
+      "published_at": "2026-10-28T09:45:21.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://aviationindustry-news.com/yyc-to-utilise-apronai-for-cargo-operations-in-countrywide-first/",
+      "title": "YYC to Utilise ApronAI for Cargo Operations in Countrywide First",
+      "published_at": "2026-10-29T13:43:12.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://aircargoweek.com/ibs-softwares-icargo-agreement-to-power-philippine-airlines-cargo-modernisation/",
+      "title": "IBS Software’s iCargo agreement to power Philippine Airlines cargo modernisation",
+      "published_at": "2026-10-29T14:23:55.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://www.stattimes.com/air-cargo/japan-airlines-and-champ-extend-cargo-technology-partnership-1361103",
+      "title": "Japan Airlines and CHAMP extend cargo technology partnership",
+      "published_at": "2026-10-28T15:00:33.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://www.aviationpros.com/ground-support-worldwide/ground-handling/news/55414965/menzies-aviation-introduces-digital-truck-management-at-prague-and-vancouver-airports",
+      "title": "Menzies Aviation Introduces Digital Truck Management at Prague and Vancouver Airports",
+      "published_at": "2026-10-28T14:11:57.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://aircargoweek.com/cargo-compliance-targeted-with-rotates-expansion-into-operational-products/",
+      "title": "Cargo compliance targeted with Rotate’s expansion into operational products",
+      "published_at": "2026-10-27T12:58:43.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://aviationindustry-news.com/veovo-to-deploy-passenger-flow-management-solution-at-toronto-pearson/",
+      "title": "Veovo to Deploy Passenger Flow Management Solution at Toronto Pearson",
+      "published_at": "2026-10-30T10:34:40.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://www.aviationpros.com/airport-business/airport-infrastructure-operations/news/55415301/waymo-expands-autonomous-airport-service-in-las-vegas",
+      "title": "Waymo Expands Autonomous Airport Service in Las Vegas",
+      "published_at": "2026-10-29T15:07:30.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://www.aircargonews.net/technology/2026/10/msn-air-service-to-utilise-kale-platform-at-new-guyana-cargo-station/",
+      "title": "MSN Air Service to utilise Kalé platform at new Guyana cargo station",
+      "published_at": "2026-10-29T16:36:22.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://aviationindustry-news.com/yeti-move-welcome-mo-i-rana-airport/",
+      "title": "Welcome Mo i Rana Airport",
+      "published_at": "2026-10-28T09:28:38.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
+      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "published_at": "2026-10-30T17:32:20.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/",
+      "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
+      "published_at": "2026-11-01T14:00:58.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "published_at": "2026-10-30T22:42:24.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+      "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "published_at": "2026-10-30T21:35:31.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
+      "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+      "published_at": "2026-10-30T20:33:18.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "published_at": "2026-10-30T23:21:23.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "http://wamda.com/2026/10/omans-phaze-ventures-launches-ai-funds-targeting-75-million",
+      "title": "Oman&#039;s Phaze Ventures launches two AI funds targeting over $75 million",
+      "published_at": "2026-10-28T12:14:28.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "http://wamda.com/2026/10/dpi-venture-capital-closes-nclude-fund-112-million",
+      "title": "DPI Venture Capital closes Nclude Fund at over $112 million",
+      "published_at": "2026-10-28T09:38:07.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://webrazzi.com/2026/10/30/doordash-instacarti-17-milyar-dolara-satin-almak-icin-anlasmaya-vardi/",
+      "title": "DoorDash, Instacart’ı 17 milyar dolara satın almak için anlaşmaya vardı",
+      "published_at": "2026-10-30T10:00:00.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://tech.eu/2026/10/29/entourage-raises-eur100m-for-second-fund-targeting-ai-robotics-and-deeptech/",
+      "title": "Entourage raises €100M for second fund, targeting AI, robotics and deeptech",
+      "published_at": "2026-10-29T07:00:00.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o",
+      "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+      "published_at": "2026-10-30T00:37:59.699Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://www.apple.com/tr/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "title": "Apple, M6 çipli yeni 14 inç MacBook Pro’yu tanıtıyor",
+      "published_at": "2026-10-27T00:00:00.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
+    },
+    {
+      "url": "https://gazeteoksijen.com/yazarlar/m-serdar-kuzuloglu/aradiginiz-hedefe-su-an-ulasilamiyor-294321",
+      "title": "Aradığınız hedefe şu an ulaşılamıyor",
+      "published_at": "2026-10-30T01:30:00.000Z",
+      "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
+      "week_id": "2026-W43"
     }
   ]
 }
