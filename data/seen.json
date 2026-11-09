@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-11-01T20:48:06.134Z",
+  "updated_at": "2026-11-09T03:02:02.492Z",
   "records": [
     {
       "url": "https://www.aircargonews.net/ground-handler/2026/09/sats-tests-autonomous-vehicles-to-speed-up-changi-handler-operations/",
@@ -946,6 +946,167 @@
       "published_at": "2026-10-30T01:30:00.000Z",
       "publication_id": "pilot:2026-W43:2026-11-01T20:48:06.134Z",
       "week_id": "2026-W43"
+    },
+    {
+      "url": "https://www.skycargo.com/media-centre/emirates-skycargo-launches-ai-tech-to-move-infrastructure-powering-artificial-intelligence/",
+      "title": "Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence",
+      "published_at": "2026-11-03T05:37:00.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://cargoforwarder.eu/2026/11/08/cargoais-ai-agents-are-diligent-email-managers/",
+      "title": "CargoAi’s AI Agents are diligent email managers",
+      "published_at": "2026-11-08T18:31:17.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.aviationpros.com/ground-support-worldwide/ground-handling/news/55417224/calgary-airport-expands-assaias-apronai-to-cargo-operations",
+      "title": "Calgary Airport Expands Assaia's ApronAI to Cargo Operations",
+      "published_at": "2026-11-06T15:21:05.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://aviationindustry-news.com/from-plan-to-vehicle-frankfurt-airport-extends-its-use-of-yeti-move/",
+      "title": "From Plan to Vehicle: Frankfurt Airport Extends Its Use of Yeti Move",
+      "published_at": "2026-11-05T10:45:57.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://aviationindustry-news.com/frequentis-leads-european-sesar-project-to-advance-next-generation-air-traffic-control-systems/",
+      "title": "Frequentis Leads European SESAR Project to Advance Next-Generation Air Traffic Control Systems",
+      "published_at": "2026-11-04T08:22:58.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://aircargoweek.com/portfolio-of-ai-apps-released-by-smart-kargo-targeting-measurable-value-to-airlines/",
+      "title": "Portfolio of AI-apps released by SmartKargo targeting measurable value to airlines",
+      "published_at": "2026-11-02T10:01:52.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.stattimes.com/aviation/zipline-raises-15bn-to-expand-us-drone-delivery-network-1361229",
+      "title": "Zipline raises $1.5bn to expand US drone delivery network",
+      "published_at": "2026-11-06T09:08:50.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/flying-taxis-cargo-electric-aviations-future-takes-off",
+      "title": "Flying Taxis & Cargo: Electric Aviation’s Future Takes Off",
+      "published_at": "2026-11-06T17:50:15.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://webrazzi.com/2026/11/06/shield-ai-radar-ureticisi-echodynei-53-milyar-dolara-satin-aliyor/",
+      "title": "Shield AI, radar üreticisi Echodyne'i 5,3 milyar dolara satın alıyor",
+      "published_at": "2026-11-06T13:30:00.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://egirisim.com/2026/11/03/turk-girisimcilerin-kurdugu-fal-16-milyar-dolar-degerleme-uzerinden-1-3-milyar-dolar-yatirim-aldi/",
+      "title": "Türk girişimcilerin kurduğu fal, 16 milyar dolar değerleme üzerinden 1.3 milyar dolar yatırım aldı",
+      "published_at": "2026-11-03T18:58:59.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/harbinger-240m-series-d-funding",
+      "title": "Harbinger raises $240M to expand EV platform beyond trucks",
+      "published_at": "2026-11-05T17:49:10.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "published_at": "2026-11-06T06:28:32.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://techcabal.com/2026/11/06/wayawaya-partners-choice-bank/",
+      "title": "Kenya’s WayaWaya partners with Choice Bank to launch AI-powered banking services",
+      "published_at": "2026-11-06T17:46:59.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.wamda.com/2026/11/saudi-aramco-acquires-49-humain-2-6-billion-cash-injection",
+      "title": "Saudi Aramco acquires 49% of HUMAIN with $2.6 billion cash injection",
+      "published_at": "2026-11-02T11:13:25.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://webrazzi.com/2026/11/06/dropbox-tigris-datayi-350-milyon-dolara-satin-aliyor/",
+      "title": "Dropbox, Tigris Data'yı 350 milyon dolara satın alıyor",
+      "published_at": "2026-11-06T14:30:00.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/fleetworthy-launches-radar-new-ai-fleet-management-technology",
+      "title": "Fleetworthy launches RADAR, new AI fleet management technology",
+      "published_at": "2026-11-06T17:55:09.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.sdcexec.com/software-technology/ai-ar/article/22969558/logicsource-ai-procurement-ip-the-humanintheloop-advantage-reframed",
+      "title": "AI Procurement IP: The Human-in-the-Loop Advantage Reframed",
+      "published_at": "2026-11-06T17:30:00.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "published_at": "2026-11-06T22:20:20.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
+      "title": "How Point One turned GPS accuracy into a robotics platform",
+      "published_at": "2026-11-06T21:47:35.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "published_at": "2026-11-06T18:44:20.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "published_at": "2026-11-06T18:43:43.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "published_at": "2026-11-06T18:44:38.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
+    },
+    {
+      "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+      "title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist - Engadget",
+      "published_at": "2026-11-04T08:50:36.000Z",
+      "publication_id": "pilot:2026-W45:2026-11-09T03:02:02.492Z",
+      "week_id": "2026-W45"
     }
   ]
 }
